@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Test.Controllers.cmdController",
+    "Method": "StreamGitStatus",
+    "RelativePath": "api/cmd/stream",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
